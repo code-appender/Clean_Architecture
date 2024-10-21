@@ -1,4 +1,4 @@
-## 📈 Clean_Architecture
+g## 📈 Clean_Architecture
 #### 클린 아키텍쳐 서적에 대한 스터디를 진행하고 정리한 내용입니다.
 
 <img src="https://github.com/user-attachments/assets/d9a493a4-d367-46d2-9976-60fd541a7acb" width="30%" height="30%"/>
